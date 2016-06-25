@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author rgannerl
+ *
+ */
+package Bitwise;
